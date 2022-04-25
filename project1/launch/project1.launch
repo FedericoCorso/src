@@ -1,0 +1,10 @@
+<launch>
+    <param name = "r" value = "0.07"/>
+    <param name = "r" value = "0.07"/>
+    <param name = "r" value = "0.07"/>
+    <param name = "r" value = "0.07"/>
+    <param name = "r" value = "0.07"/>
+
+    <node pkg = "project1" type = "velocities" name = "velocities"/>
+
+</launch>
